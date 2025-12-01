@@ -1,8 +1,8 @@
 <h1 align="left">👋 Hey, I'm Dhruvi Pandya</h1>
 
 🔭 Working on: Improving my Business Analysis and Quality Assurance skills  
-🌱 SQL | SDLC | Documentation | Test Case Writing | Figma 
-📫 Reach me: dhruvipandya9105@gmail.com  
+🌱 Learning: SQL | SDLC | Documentation | Test Case Writing | Figma  
+📫 Reach me: dhruvipandya9105@gmail.com 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/dhruvi-pandya-413701304) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvipandya9105@gmail.com) 
