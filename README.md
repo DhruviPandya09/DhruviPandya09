@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hey, I'm Dhruvi Pandya</h1>
 
-🔭 Working on: Enhancing Full Stack Web Development Skills  
-🌱 Learning: Java | PHP | SQL | React.js  
+🔭 Working on: Improving my Business Analysis and Quality Assurance skills  
+🌱 SQL | SDLC | Documentation | Test Case Writing | Figma 
 📫 Reach me: dhruvipandya9105@gmail.com  
 
 ## 🌐 Socials:
